@@ -1,20 +1,3 @@
-////////////////////////////////////////////////////////////////////////////
-//	File:		CCrystalTextBuffer.h
-//	Version:	1.0.0.0
-//	Created:	29-Dec-1998
-//
-//	Author:		Stcherbatchenko Andrei
-//	E-mail:		windfall@gmx.de
-//
-//	Interface of the CCrystalTextBuffer class, a part of Crystal Edit -
-//	syntax coloring text editor.
-//
-//	You are free to use or modify this code to the following restrictions:
-//	- Acknowledge me somewhere in your about box, simple "Parts of code by.."
-//	will be enough. If you can't (or don't want to), contact me personally.
-//	- LEAVE THIS HEADER INTACT
-////////////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_CCRYSTALTEXTBUFFER_H__AD7F2F49_6CB3_11D2_8C32_0080ADB86836__INCLUDED_)
 #define AFX_CCRYSTALTEXTBUFFER_H__AD7F2F49_6CB3_11D2_8C32_0080ADB86836__INCLUDED_
 
