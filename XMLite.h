@@ -1,26 +1,4 @@
 // XMLite.h: interface for the XMLite class.
-//
-// XMLite : XML Lite Parser Library
-// by bro ( Cho,Kyung Min: bro@shinbiro.com ) 2002-10-30
-// Microsoft MVP (Visual C++) bro@msmvp.com
-// 
-// History.
-// 2002-10-29 : First Coded. Parsing XMLElelement and Attributes.
-//              get xml parsed string ( looks good )
-// 2002-10-30 : Get Node Functions, error handling ( not completed )
-// 2002-12-06 : Helper Funtion string to long
-// 2002-12-12 : Entity Helper Support
-// 2003-04-08 : Close, 
-// 2003-07-23 : add property escape_value. (now no escape on default)
-// 2003-10-24 : bugfix) attribute parsing <tag a='1' \r\n/> is now ok
-// 2004-03-05 : add branch copy functions
-// 2004-06-14 : add _tcseistr/_tcsenistr/_tcsenicmp functions
-// 2004-06-14 : now support, XML Document and PI, Comment, CDATA node
-// 2004-06-15 : add GetText()/ Find() functions
-// 2004-06-15 : add force_parse : now can parse HTML (not-welformed xml)
-// 
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_XMLITE_H__786258A5_8360_4AE4_BDAF_2A52F8E1B877__INCLUDED_)
 #define AFX_XMLITE_H__786258A5_8360_4AE4_BDAF_2A52F8E1B877__INCLUDED_
 
