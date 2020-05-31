@@ -1,23 +1,5 @@
 #if !defined(AFX_FASTHTMLRICHEDITCTRL_H__46148F2F_5109_11D6_A00C_0004768C7143__INCLUDED_)
 #define AFX_FASTHTMLRICHEDITCTRL_H__46148F2F_5109_11D6_A00C_0004768C7143__INCLUDED_
-
-/****************************************************************************\
-*            
-*     FILE:     FastHtmlRichEditCtrl.cpp
-*
-*     PURPOSE:  Fast Syntax Highlighting for HTML Code
-*
-*     COMMENTS: This file contains the main window and instance handing
-*               for this project.
-*
-*     AUTHOR:	Ziv Gilad, based on Derek Lakin’s CHtmlRichEditCtrlSSL
-*
-*
-* History:
-*                March '2006 - Created
-*
-\****************************************************************************/
-
 #if _MSC_VER > 1000
 #pragma once
 #endif // _MSC_VER > 1000
