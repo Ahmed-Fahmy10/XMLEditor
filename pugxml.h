@@ -1,14 +1,4 @@
 //pugxml.h
-///////////////////////////////////////////////////////////////////////////////
-//
-// Pug XML Parser - Version 1.0002
-// --------------------------------------------------------
-// Copyright (C) 2003, by Kristen Wegner (kristen@tima.net)
-// Released into the Public Domain. Use at your own risk.
-// See pugxml.xml for further information, history, etc.
-// Contributions by Neville Franks (readonly@getsoft.com).
-//
-///////////////////////////////////////////////////////////////////////////////
 #if !defined(_PUGXML_)
 #define _PUGXML_
 #pragma once
