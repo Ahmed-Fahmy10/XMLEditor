@@ -1,0 +1,9 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line warning D9035: option 'Zc:forScope-' has been deprecated and will be removed in a future release
+  SampleDoc.cpp
+G:\comm\Ahmed.EG\XMLEditor\SampleDoc.cpp(43,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\comm\Ahmed.EG\XMLEditor\SampleDoc.cpp(51,21): warning C4101: 'e': unreferenced local variable
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1288,5): warning MSB8012: TargetPath(G:\comm\Ahmed.EG\XMLEditor\.\Debug\Sample.exe) does not match the Linker's OutputFile property value (G:\comm\Ahmed.EG\XMLEditor\Debug\XMLEditor.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1290,5): warning MSB8012: TargetName(Sample) does not match the Linker's OutputFile property value (XMLEditor). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+CCrystalEditView.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Sample.vcxproj -> G:\comm\Ahmed.EG\XMLEditor\.\Debug\Sample.exe
