@@ -1,20 +1,3 @@
-/****************************************************************************\
-*            
-*     FILE:     FastHtmlRichEditCtrl.cpp
-*
-*     PURPOSE:  Fast Syntax Highlighting for HTML Code
-*
-*     COMMENTS: This file contains the main window and instance handing
-*               for this project.
-*
-*     AUTHOR:	Ziv Gilad, based on Derek Lakin’s CHtmlRichEditCtrlSSL
-*
-*
-* History:
-*                March '2006 - Created
-*
-\****************************************************************************/
-
 #include "pch.h"
 #include "framework.h"
 #include "FastHtmlRichEditCtrl.h"
@@ -334,10 +317,10 @@ BEGIN_MESSAGE_MAP(CFastHtmlRichEditCtrl, CRichEditCtrl)
 END_MESSAGE_MAP()
 
 /**
- * WM_CHAR handler traps "interesting chars" (chars that change the color state, for example ‘<’ or ‘”)
+ * WM_CHAR handler traps "interesting chars" (chars that change the color state, for example â€˜<â€™ or â€˜â€)
  * and updates the colors accordingly.
  * Sometimes we invalidate up to 3 preceding chars to take care of 
- * comments, as pressing the ‘-‘ char might complete a comment start combination. 
+ * comments, as pressing the â€˜-â€˜ char might complete a comment start combination. 
  * NOTE that OnChar is too late for handling VK_BACK and VK_DELETE,
  * as chars have already been deleted at this stage
  */
