@@ -1,19 +1,3 @@
-////////////////////////////////////////////////////////////////////////////
-//	File:		cedefs.h
-//	Version:	1.0.0.0
-//	Created:	21-Feb-1999
-//
-//	Author:		Stcherbatchenko Andrei
-//	E-mail:		windfall@gmx.de
-//
-//	Global definitions for Crystal Edit - syntax coloring text editor.
-//
-//	You are free to use or modify this code to the following restrictions:
-//	- Acknowledge me somewhere in your about box, simple "Parts of code by.."
-//	will be enough. If you can't (or don't want to), contact me personally.
-//	- LEAVE THIS HEADER INTACT
-////////////////////////////////////////////////////////////////////////////
-
 #ifndef CEDEFS_H__INCLUDED
 #define CEDEFS_H__INCLUDED
 
