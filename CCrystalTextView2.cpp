@@ -1,29 +1,3 @@
-////////////////////////////////////////////////////////////////////////////
-//	File:		CCrystalTextView2.cpp
-//	Version:	1.0.0.0
-//	Created:	29-Dec-1998
-//
-//	Author:		Stcherbatchenko Andrei
-//	E-mail:		windfall@gmx.de
-//
-//	Implementation of the CCrystalTextView class, a part of Crystal Edit -
-//	syntax coloring text editor.
-//
-//	You are free to use or modify this code to the following restrictions:
-//	- Acknowledge me somewhere in your about box, simple "Parts of code by.."
-//	will be enough. If you can't (or don't want to), contact me personally.
-//	- LEAVE THIS HEADER INTACT
-////////////////////////////////////////////////////////////////////////////
-
-////////////////////////////////////////////////////////////////////////////
-//	21-Feb-99
-//		Paul Selormey, James R. Twine:
-//	+	FEATURE: description for Undo/Redo actions
-//	+	FEATURE: multiple MSVC-like bookmarks
-//	+	FEATURE: 'Disable backspace at beginning of line' option
-//	+	FEATURE: 'Disable drag-n-drop editing' option
-////////////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "editcmd.h"
 #include "CCrystalTextView.h"
